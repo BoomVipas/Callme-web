@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# claude code local config
+.claude/
+
+# stray source media (not used by the site)
+/AI Videos from Text & Image.mp4
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
